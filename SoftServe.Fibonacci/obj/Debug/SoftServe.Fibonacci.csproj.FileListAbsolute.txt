@@ -1,0 +1,7 @@
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\bin\Debug\SoftServe.Fibonacci.pdb
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\obj\Debug\SoftServe.Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\obj\Debug\SoftServe.Fibonacci.pdb
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\bin\Debug\SoftServe.Fibonacci.dll.config
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\bin\Debug\SoftServe.Fibonacci.dll
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\obj\Debug\SoftServe.Fibonacci.dll
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.Fibonacci\obj\Debug\SoftServe.Fibonacci.csprojAssemblyReference.cache

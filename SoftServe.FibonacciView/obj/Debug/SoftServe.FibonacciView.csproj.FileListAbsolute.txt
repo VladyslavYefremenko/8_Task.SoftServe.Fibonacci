@@ -1,0 +1,11 @@
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\bin\Debug\SoftServe.FibonacciView.exe.config
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\bin\Debug\SoftServe.FibonacciView.exe
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\bin\Debug\SoftServe.FibonacciView.pdb
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\bin\Debug\SoftServe.Fibonacci.dll
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\bin\Debug\SoftServe.Fibonacci.pdb
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\bin\Debug\SoftServe.Fibonacci.dll.config
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\obj\Debug\SoftServe.FibonacciView.csprojAssemblyReference.cache
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\obj\Debug\SoftServe.FibonacciView.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\obj\Debug\SoftServe.FibonacciView.csproj.CopyComplete
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\obj\Debug\SoftServe.FibonacciView.exe
+C:\Users\NoApple\Desktop\SoftServe\8_Task.SoftServe.Fibonacci\SoftServe.FibonacciView\obj\Debug\SoftServe.FibonacciView.pdb
