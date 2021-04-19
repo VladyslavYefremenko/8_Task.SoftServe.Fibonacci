@@ -1,18 +1,30 @@
-﻿namespace SoftServe.Fibonacci
+﻿using System.Collections.Generic;
+
+namespace SoftServe.Fibonacci
 {
     public class Fibonacci : IFibonacciCreator
     {
-        private int[] fibonacciSequence;
+        private List<int> fibonacciSequence = new List<int>();
 
-        public int[] FibonacciSequence { get => fibonacciSequence; }
+        public List<int> FibonacciSequence { get => fibonacciSequence; }
 
-        public Fibonacci(int maxNum)
+        public Fibonacci(int minNum, int maxNum)
         {
-            fibonacciSequence = new int[maxNum];
+            int counter = 0;
+            int number = 0;
 
-            for (int i = 0; i < maxNum; i++)
+            while (number < maxNum)
             {
-                fibonacciSequence[i] = FibonacciCreator(i);
+                number = FibonacciCreator(counter++);
+
+                if (number >= minNum && number < maxNum)
+                {
+                    fibonacciSequence.Add(number);
+                }
+                else
+                {
+                    continue;
+                }
             }
         }
 
