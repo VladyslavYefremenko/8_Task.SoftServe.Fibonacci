@@ -2,6 +2,6 @@
 {
     public interface IFibonacciCreator
     {
-        int FibonacciCreator(int num);
+        int Create(int num);
     }
 }

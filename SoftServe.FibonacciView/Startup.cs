@@ -8,11 +8,12 @@ namespace SoftServe.FibonacciView
     {
         public static void Start(string[] args)
         {
-            int startSequence = 0;
-            int finishSequence = 0;
-
             IValidator validator = new Validator();
             IPrinter printer = new Printer();
+            IFibonacciCreator fibonacciCreator = new FibonacciCreator();
+
+            int startSequence = 0;
+            int finishSequence = 0;
 
             if (validator.ArgsIsEmpty(args) && (validator.IsNumInt(args[0]) && validator.IsNumInt(args[1])))
             {
@@ -21,16 +22,18 @@ namespace SoftServe.FibonacciView
 
                 if ((startSequence > 0 && finishSequence > 0) && finishSequence > startSequence)
                 {
-                    Fibonacci.Fibonacci fibonacci = new Fibonacci.Fibonacci( startSequence, finishSequence);
+                    Fibonacci.Fibonacci fibonacci = new Fibonacci.Fibonacci(fibonacciCreator ,startSequence, finishSequence);
 
                     printer.PrintSequence(fibonacci, startSequence, finishSequence);
                     Console.ReadKey();
+
                     return;
                 }                
             }
 
             printer.PrintInstraction(DefaultSettings.InstractionPath);
             Console.ReadKey();
+
             return;
         }
     }
